@@ -1,0 +1,2 @@
+# parDesDeploy
+ParaulaDescoberta deployment
